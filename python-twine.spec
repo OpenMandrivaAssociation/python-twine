@@ -9,6 +9,7 @@ Group:		Development/Python
 BuildRequires:	python
 BuildRequires:	python-readme_renderer
 BuildRequires:	python-id
+BuildRequires:  python-setuptools
 BuildSystem:	python
 BuildArch:	noarch
 
